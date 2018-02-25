@@ -3,14 +3,14 @@
   margin: 2% 2%;
   padding: 1% 2%;
   /*background: #151515;*/
-  background: #000000;
+  /*background: #000000;*/
 }
 .blank{
   color: white;
 }
 body{
-  background: #151515;
-  /*background: #000000;*/
+  /*background: #151515;*/
+  background: #000000;
   color: #00FF80;
   /*color:#2ECCFA;*/
   font-family: 'Ubuntu Mono', monospace;
